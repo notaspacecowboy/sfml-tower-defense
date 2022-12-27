@@ -1,0 +1,126 @@
+[
+  {
+    "tid": 1,
+    "description": "level 0 spawn rule",
+    "enemyList": [1],
+    "totalFights": 1,
+    "fights": [
+      {
+        "totalEnemies":           5,
+        "regularEnemies":         1,
+        "eliteEnemies":           0,
+        "minimumWaitTime":        0.5,
+        "maximumWaitTime":        2
+      }
+    ]
+  },
+  {
+    "tid": 2,
+    "description": "level 1 spawn rule",
+    "enemyList": [2],
+    "totalFights": 2,
+    "fights": [
+      {
+        "totalEnemies":           5,
+        "regularEnemies":         1,
+        "eliteEnemies":           0,
+        "minimumWaitTime":        0.5,
+        "maximumWaitTime":        2
+      },
+      {
+        "totalEnemies":           10,
+        "regularEnemies":         1,
+        "eliteEnemies":           0,
+        "minimumWaitTime":        0.2,
+        "maximumWaitTime":        0.5
+      }
+    ]
+  },
+  {
+    "tid": 3,
+    "description": "level 2 spawn rule",
+    "enemyList": [1, 2],
+    "totalFights": 3,
+    "fights": [
+      {
+        "totalEnemies":           5,
+        "regularEnemies":         1,
+        "eliteEnemies":           0,
+        "minimumWaitTime":        0.5,
+        "maximumWaitTime":        2
+      },
+      {
+        "totalEnemies":           10,
+        "regularEnemies":         1,
+        "eliteEnemies":           0,
+        "minimumWaitTime":        0.2,
+        "maximumWaitTime":        0.5
+      },
+      {
+        "totalEnemies":           20,
+        "regularEnemies":         1,
+        "eliteEnemies":           0,
+        "minimumWaitTime":        0.2,
+        "maximumWaitTime":        0.5
+      }
+    ]
+  },
+  {
+    "tid": 4,
+    "description": "level 3 spawn rule",
+    "enemyList": [2],
+    "totalFights": 4,
+    "fights": [
+      {
+        "totalEnemies":           5,
+        "regularEnemies":         1,
+        "eliteEnemies":           0,
+        "minimumWaitTime":        0.5,
+        "maximumWaitTime":        2
+      },
+      {
+        "totalEnemies":           10,
+        "regularEnemies":         1,
+        "eliteEnemies":           0,
+        "minimumWaitTime":        0.2,
+        "maximumWaitTime":        0.5
+      },
+      {
+        "totalEnemies":           20,
+        "regularEnemies":         1,
+        "eliteEnemies":           0,
+        "minimumWaitTime":        0.2,
+        "maximumWaitTime":        0.5
+      },
+      {
+        "totalEnemies":           30,
+        "regularEnemies":         1,
+        "eliteEnemies":           0,
+        "minimumWaitTime":        0.3,
+        "maximumWaitTime":        0.6
+      }
+    ]
+  },
+  {
+    "tid": 5,
+    "description": "level 4 spawn rule",
+    "enemyList": [2],
+    "totalFights": 2,
+    "fights": [
+      {
+        "totalEnemies":           5,
+        "regularEnemies":         1,
+        "eliteEnemies":           0,
+        "minimumWaitTime":        0.5,
+        "maximumWaitTime":        2
+      },
+      {
+        "totalEnemies":           10,
+        "regularEnemies":         1,
+        "eliteEnemies":           0,
+        "minimumWaitTime":        0.2,
+        "maximumWaitTime":        0.5
+      }
+    ]
+  }
+]

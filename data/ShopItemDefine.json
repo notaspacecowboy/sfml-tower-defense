@@ -1,0 +1,37 @@
+[
+    {
+        "tid": 1,
+        "name": "Armor",
+        "description": "Reduces incoming Damage by 1",
+        "cost": 250,
+        "iconTextureID": 21
+    },
+    {
+        "tid": 2,
+        "name": "Amount",
+        "description": "Towers fire 1 more projection",
+        "cost": 400,
+        "iconTextureID": 14
+    },
+    {
+        "tid": 3,
+        "name": "Area",
+        "description": "Augments area of attacks increase by 1",
+        "cost": 600,
+        "iconTextureID": 17
+    },
+    {
+        "tid": 4,
+        "name": "CoolDown",
+        "description": "Towers fire 10% faster",
+        "cost": 800,
+        "iconTextureID": 19
+    },
+    {
+        "tid": 5,
+        "name": "Greed",
+        "description": "Gain 10% more gold",
+        "cost": 1000,
+        "iconTextureID": 20
+    }
+]

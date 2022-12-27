@@ -1,0 +1,61 @@
+[
+    {
+    "tid": 1,
+    "description": "enemy hound",
+    "isElite": false,
+    "speed": 160,
+    "rotateSpeed": 200,
+    "hp": 5,
+    "point": 20,
+    "damage": 5,
+
+    "isFacingRight": false,
+    "scaleSpriteX": 2,
+    "scaleSpriteY": 2,
+    "animations":
+        [
+            {
+                "animStateID": 1,
+                "animID": 1,
+                "makeInitialState": true
+            },
+            {
+                "animStateID": 2,
+                "animID": 2,
+                "makeInitialState": false
+            },
+            {
+                "animStateID": 4,
+                "animID": 3,
+                "makeInitialState": false
+            }
+        ]
+    },
+    {
+        "tid": 2,
+        "description": "enemy skelton",
+        "isElite": false,
+        "speed": 80,
+        "rotateSpeed": 150,
+        "hp": 10,
+        "point": 50,
+        "damage": 10,
+
+        "isFacingRight": true,
+        "scaleSpriteX": 2,
+        "scaleSpriteY": 2,
+        "animations":
+        [
+            {
+                "animStateID": 4,
+                "animID": 6,
+                "makeInitialState": true
+            },
+            {
+                "animStateID": 5,
+                "animID": 5,
+                "makeInitialState": false
+            }
+        ]
+    }
+]

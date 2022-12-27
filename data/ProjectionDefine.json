@@ -1,0 +1,15 @@
+[
+  {
+    "tid":                      1,
+    "description":              "projection 1",
+    "speed":                    400,
+    "animations":
+    [
+      {
+        "animStateID": 1,
+        "animID": 7,
+        "makeInitialState": true
+      }
+    ]
+  }
+]

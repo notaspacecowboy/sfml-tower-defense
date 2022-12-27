@@ -1,0 +1,72 @@
+[
+  {
+    "tid": 1,
+    "description": "hound idle animation, speed indicates how many image will be displayed per second",
+    "textureID": 7,
+    "column": 6,
+    "row": 1,
+    "speed": 5,
+    "isLooping": true,
+    "reverse": true
+  },
+  {
+    "tid": 2,
+    "description": "hound walk animation",
+    "textureID": 9,
+    "column": 12,
+    "row": 1,
+    "speed": 5,
+    "isLooping": true,
+    "reverse": false
+  },
+  {
+    "tid": 3,
+    "description": "hound run animation",
+    "textureID": 8,
+    "column": 5,
+    "row": 1,
+    "speed": 8,
+    "isLooping": true,
+    "reverse": false
+  },
+  {
+    "tid": 4,
+    "description": "tower animation",
+    "textureID": 10,
+    "column": 11,
+    "row": 1,
+    "speed": 10,
+    "isLooping": true,
+    "reverse": false
+  },
+  {
+    "tid": 5,
+    "description": "skeleton die animation",
+    "textureID": 11,
+    "column": 15,
+    "row": 1,
+    "speed": 10,
+    "isLooping": false,
+    "reverse": false
+  },
+  {
+    "tid": 6,
+    "description": "skeleton walk animation",
+    "textureID": 12,
+    "column": 13,
+    "row": 1,
+    "speed": 10,
+    "isLooping": true,
+    "reverse": false
+  },
+  {
+    "tid": 7,
+    "description": "projection animation 1",
+    "textureID": 33,
+    "column": 2,
+    "row": 15,
+    "speed": 10,
+    "isLooping": true,
+    "reverse": false
+  }
+]

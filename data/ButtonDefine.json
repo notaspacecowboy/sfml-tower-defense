@@ -1,0 +1,92 @@
+[
+  {
+    "tid": 1,
+    "description": "shop button",
+    "textureID": 2,
+    "scale": 2,
+    "isSpriteSheet": true,
+    "offsetX": 0,
+    "offsetY": 192,
+    "width": 96,
+    "height": 32,
+
+    "hasPressedSprite": true,
+    "pressed_textureID": 2,
+    "pressed_isSpriteSheet": true,
+    "pressed_offsetX": 96,
+    "pressed_offsetY": 192,
+    "pressed_width": 96,
+    "pressed_height": 32,
+
+    "hasText": true,
+    "fontID": 2,
+    "textSize": 40,
+    "textOffsetX": 0,
+    "textOffsetY": -10,
+
+    "pressed_textOffsetX": 0,
+    "pressed_textOffsetY": 10,
+
+    "sfx_onclick": 1
+  },
+  {
+    "tid": 2,
+    "description": "quit and option button",
+    "textureID": 3,
+    "scale": 2,
+    "isSpriteSheet": true,
+    "offsetX": 0,
+    "offsetY": 0,
+    "width": 96,
+    "height": 32,
+
+    "hasPressedSprite": true,
+    "pressed_textureID": 3,
+    "pressed_isSpriteSheet": true,
+    "pressed_offsetX": 96,
+    "pressed_offsetY": 0,
+    "pressed_width": 96,
+    "pressed_height": 32,
+
+    "hasText": true,
+    "fontID": 2,
+    "textSize": 50,
+    "textOffsetX": 0,
+    "textOffsetY": 0,
+
+    "pressed_textOffsetX": 0,
+    "pressed_textOffsetY": 10,
+
+    "sfx_onclick": 1
+  },
+  {
+    "tid": 3,
+    "description": "start, achievement, and credit button",
+    "textureID": 6,
+    "scale": 2,
+    "isSpriteSheet": true,
+    "offsetX": 132,
+    "offsetY": 4,
+    "width": 88,
+    "height": 56,
+
+    "hasPressedSprite": true,
+    "pressed_textureID": 6,
+    "pressed_isSpriteSheet": true,
+    "pressed_offsetX": 228,
+    "pressed_offsetY": 4,
+    "pressed_width": 88,
+    "pressed_height": 56,
+
+    "hasText": true,
+    "fontID": 1,
+    "textSize": 50,
+    "textOffsetX": 0,
+    "textOffsetY": 0,
+
+    "pressed_textOffsetX": 0,
+    "pressed_textOffsetY": 10,
+
+    "sfx_onclick": 1
+  }
+]

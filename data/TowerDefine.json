@@ -1,0 +1,22 @@
+[
+    {
+    "tid":                      1,
+    "description":              "tower 1",
+    "attackInterval":           1,
+    "attackRange":              1,
+    "damage":                   10,
+    "projectileID":             1,
+    "cost":                     200,
+    "textureID":                10,
+    "textureScaleX":            1.5,
+    "textureScaleY":            1.5,
+    "animations":
+        [
+            {
+                "animStateID": 1,
+                "animID": 4,
+                "makeInitialState": true
+            }
+        ]
+    }
+]
